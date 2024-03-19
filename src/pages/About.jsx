@@ -15,7 +15,7 @@ function About() {
             </header>
 
             <div className='container my-5'>
-                <p align="justify">At SHKRastaurant, we are passionate about creating memorable moments for our guests. Our team of talented chefs meticulously crafts each dish with the finest ingredients, infusing creativity and flavors that will tantalize your taste buds.</p>
+                <p align="justify">At SHKRestaurant, we are passionate about creating memorable moments for our guests. Our team of talented chefs meticulously crafts each dish with the finest ingredients, infusing creativity and flavors that will tantalize your taste buds.</p>
                 <p align="justify">But it's not just about the food. Our restaurant is designed to transport you to a world of comfort and relaxation. The elegant yet cozy ambiance sets the stage for an unforgettable dining experience. Whether you're celebrating a special occasion, enjoying a romantic evening, or simply catching up with friends, our restaurant provides the perfect backdrop for every moment.</p>
 
                 <div className='row'>

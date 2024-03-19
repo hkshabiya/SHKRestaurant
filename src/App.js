@@ -11,7 +11,7 @@ import { NavLink } from 'react-router-dom';
 
 
 function App() {
-  document.title="SHKRastaurant"
+  document.title="SHKRestaurant"
   return (
     <div>
       <Navbar expand="lg" className='fixed-top bg-body-tertiary shadow'>
@@ -49,7 +49,7 @@ function App() {
       </Routes>
 
       <footer className='bg-body-tertiary'>
-        <p className='p-3 m-0 text-center'>Copyright @ SHKRastaurant</p>
+        <p className='p-3 m-0 text-center'>Copyright @ SHKRestaurant</p>
       </footer>
     </div>
   );

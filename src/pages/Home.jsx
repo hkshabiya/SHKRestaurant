@@ -16,7 +16,7 @@ function Home()
                     <div className='row'>
                         <div className='col-sm-6 d-flex d-sm-block flex-column align-items-center'>
                             <h2 className='mb-0 text-yellow fw-bold'>Welcome To</h2>
-                            <h1 className='mb-5 text-black fw-bold text-center text-sm-start'>SHKRastaurant</h1>
+                            <h1 className='mb-5 text-black fw-bold text-center text-sm-start'>SHK Restaurant</h1>
                             <MenuBtn />
                         </div>
                     </div>
@@ -30,7 +30,7 @@ function Home()
                     </div>
                     <div className='col-lg-6 d-flex flex-column align-items-center justify-content-center'>
                         <h2 className='fs-1 mb-5 text-uppercase fw-bold'>About Us</h2>
-                        <p align="justify">At SHKRastaurant, we are passionate about creating memorable moments for our guests. Our team of talented chefs meticulously crafts each dish with the finest ingredients, infusing creativity and flavors that will tantalize your taste buds.</p>
+                        <p align="justify">At SHK Restaurant, we are passionate about creating memorable moments for our guests. Our team of talented chefs meticulously crafts each dish with the finest ingredients, infusing creativity and flavors that will tantalize your taste buds.</p>
                         <p className='mb-5' align="justify">But it's not just about the food. Our restaurant is designed to transport you to a world of comfort and relaxation. The elegant yet cozy ambiance sets the stage for an unforgettable dining experience. Whether you're celebrating a special occasion, enjoying a romantic evening, or simply catching up with friends, our restaurant provides the perfect backdrop for every moment.</p>
                         <Link to="/about">
                             <button type='button' className='btn btn-outline-success btn-lg'>More About Us</button>
